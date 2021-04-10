@@ -1,0 +1,28 @@
+co/com/sofka/stepdefinitions/StepInvoicingAndShipping.java
+ co.com.sofka.stepdefinitions.StepInvoicingAndShipping
+co/com/sofka/log/Log4jData.java
+ co.com.sofka.log.Log4jData
+co/com/sofka/data/User.java
+ co.com.sofka.data.User
+co/com/sofka/data/MySQLConnection.java
+ co.com.sofka.data.MySQLConnection
+co/com/sofka/stepdefinitions/StepPurchaseProcess.java
+ co.com.sofka.stepdefinitions.StepPurchaseProcess
+co/com/sofka/pages/AccountCreationPage.java
+ co.com.sofka.pages.AccountCreationPage
+co/com/sofka/stepdefinitions/StepLogin.java
+ co.com.sofka.stepdefinitions.StepLogin
+co/com/sofka/pages/HomeMenu.java
+ co.com.sofka.pages.HomeMenu
+co/com/sofka/pages/MainLogin.java
+ co.com.sofka.pages.MainLogin
+co/com/sofka/stepdefinitions/CredentialesIncorrect.java
+ co.com.sofka.stepdefinitions.CredentialesIncorrect
+co/com/sofka/stepdefinitions/StepAddProducts.java
+ co.com.sofka.stepdefinitions.StepAddProducts
+co/com/sofka/data/UserDTO.java
+ co.com.sofka.data.UserDTO
+co/com/sofka/controller/controller.java
+ co.com.sofka.controller.controller
+co/com/sofka/stepdefinitions/Hooks.java
+ co.com.sofka.stepdefinitions.Hooks

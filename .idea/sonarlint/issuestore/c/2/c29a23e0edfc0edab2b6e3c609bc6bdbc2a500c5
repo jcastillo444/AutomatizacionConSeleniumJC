@@ -1,0 +1,6 @@
+
+H
+java:S5960"+Remove this assertion from production code.(ú¸øœ8Á¨ÜÍ‹/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(í—Âµ8Á¨ÜÍ‹/
+Z	java:S106("9Replace this use of System.out or System.err by a logger.(’¦±ûÿÿÿÿ8òçËÎ‹/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñ¶äµùÿÿÿÿ8ñ‹ÒÍ‹/
